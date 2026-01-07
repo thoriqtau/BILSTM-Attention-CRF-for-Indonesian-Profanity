@@ -97,18 +97,24 @@ Entity naming in NER tasks is required to classify words according to the domain
 
 ## Annotation Process
 
-<p align="justify">
+<div align="justify">
+
 The annotation process is performed at the token level (token-level annotation), where each word in a sentence is segmented into tokens, and then labeled according to its meaning and context of use.
-</p>
 
 - token/label
 
-<p align="justify">
 Example:
-</p>
 
 - lucunya/O adalah/O kak/O pacar/O nyadain/O ini/O telat/O bgt/O anjir/PER-NEG
+
+</div>
 
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+## Keyword
+
+<div align="justify">
+token classification, sequence labelling, deteksi kata kasar, NER, profanity, abusive word, token level, attention, bilstm, conditional random field (crf)
+</div>
