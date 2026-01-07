@@ -31,8 +31,6 @@ You can find the original paper and data through the following links:
 
 <div align="justify">
 
-## Dataset Modification
-
 In this study, the original dataset was modified to align with a **token classification** approach. The process involved:
 
 1.  **Tokenization**: Breaking down sentences into individual tokens (words and punctuation).
