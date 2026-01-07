@@ -22,10 +22,10 @@ The dataset used in this project was originally developed by **M. Ibrohim and Bu
 
 You can find the original paper and data through the following links:
 
-</div>
-
 - **Paper:** [A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media](https://doi.org/10.1016/j.procs.2018.08.169)
 - **GitHub Repository:** [id-abusive-language-detection](http://github.com/okkyibrohim/id-abusive-language-detection)
+
+</div>
 
 ---
 
